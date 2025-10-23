@@ -3,10 +3,12 @@
 ## **1. Python**
 
 **a. Amazon Sales**
+
 This project focuses on analyzing product sales data from Amazon to identify sales trends, best-performing product categories, as well as price and profit patterns.
 Using Python, I performed data cleaning, exploratory analysis, and visualization to illustrate overall business performance and key sales metrics.
 
 **b. COVID-19 Data Analysis**
+
 This project analyzes the spread and global impact of the COVID-19 pandemic since its early outbreak.
 The pandemic caused severe disruptions across multiple sectors such as education, economy, and society. Millions lost their jobs, over 160 countries closed schools, and digital connectivity became a crucial necessity.
 Through this analysis, I visualized the growth of global cases and deaths and explored how the pandemic affected worldwide socio-economic conditions.
