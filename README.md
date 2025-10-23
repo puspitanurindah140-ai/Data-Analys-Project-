@@ -1,6 +1,7 @@
 # **About the Project**
 
 ## **1. Python**
+
 **a. Amazon Sales**
 This project focuses on analyzing product sales data from Amazon to identify sales trends, best-performing product categories, as well as price and profit patterns.
 Using Python, I performed data cleaning, exploratory analysis, and visualization to illustrate overall business performance and key sales metrics.
@@ -21,6 +22,7 @@ This project demonstrates how the integration of SQL and Python can be effective
 ---
 
 ## **1. Python**
+
 **a. Amazon Sales**
 Proyek ini berfokus pada analisis data penjualan produk di Amazon untuk memahami tren penjualan, kategori produk yang paling laku, serta pola harga dan profit.
 Melalui Python, saya melakukan pembersihan data, analisis eksploratif, hingga visualisasi untuk menggambarkan performa bisnis secara menyeluruh.
